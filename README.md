@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mudandstars
+- 👀 I’m interested in strength training, reading, philosophy, music and general self-development and mental clarity
+- 🌱 I’m currently learning software development using python
+- 💞️ I’m looking to collaborate on nothing atm
