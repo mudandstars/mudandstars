@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @mudandstars
-- 👀 I’m interested in strength training, reading, philosophy, music and general self-development and mental clarity
-- 💞️ Hmu if you want to collaborate on something! I am looking for new projects to participate and gather experience in.
+Hi, I’m @mudandstars aka Paul.
+
+I’m interested in a conscious and deep life.
+Mine includes - besides a clear focus on relationships - a lot of reading, sports, philosophy and coding.
+
+Follow me on goodreads: https://www.goodreads.com/user/show/119839105-paul-sochiera
