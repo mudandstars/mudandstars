@@ -28,7 +28,7 @@ Mine includes a lot of coding, making music, reading & sports.
 </br></br>
 
 ## 4 Public Projects I did
-- Built and maintained a commission management tool (Laravel, Vue) as part of a now-aborted-startup. We released the MVP and contracted the first paying customer in less than 3 months [link](https://github.com/felixele217/app-centify)
+- Built and maintained a commission management tool (Laravel, Vue) as part of a now-aborted-startup. We released the MVP and contracted the first paying customer in less than 3 months ([link](https://github.com/felixele217/app-centify))
 - Composer package to automatically sync types (>4.5k Downloads) ([link](https://github.com/mudandstars/sync-enum-types)) 
 - Simplified Database written in Rust ([link](https://github.com/mudandstars/rsql))
 - MacOS native app that notifies you via webhook written in Go and Dart ([link](https://github.com/mudandstars/notifier))
